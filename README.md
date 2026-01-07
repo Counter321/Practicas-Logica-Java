@@ -8,7 +8,7 @@ Colección de ejercicios y mini-proyectos para consolidar la lógica de programa
 * **Tipos de Datos:** Manipulación de variables primitivas y Strings.
 * **Entrada de Datos:** Uso de la clase `Scanner` para interactuar con el usuario.
 
-## 🚀 Cómo ejecutar
+## 🎬 Cómo ejecutar
 Estos archivos se pueden compilar y ejecutar directamente desde la terminal o cualquier IDE (IntelliJ, Eclipse, VS Code).
 
 ---
